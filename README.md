@@ -4,7 +4,7 @@ Writeups for CTF challenges.
 
 ## 316ctf (2026/08/10)
 
-[[PasswordCracking] Maryland_1/README.md)
+[[PasswordCracking] (316ctf/Maryland_1/README.md)
 
 ## DailyAlpacaHack (2026/08/09)
 

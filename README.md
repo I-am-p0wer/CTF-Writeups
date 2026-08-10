@@ -1,6 +1,5 @@
 # CTF-Writeups
 
-# CTF-Writeups
 Writeups for CTF challenges.
 
 ## 316ctf (2026/08/10)

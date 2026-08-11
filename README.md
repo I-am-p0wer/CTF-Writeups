@@ -9,7 +9,7 @@ Writeups for CTF challenges.
 
 ## DailyAlpacaHack (2026/08/09)
 
-[[Misc][Welcome]AlpacaHack 2100 2089solved](DailyAlpacaHack/AlpacaHack_2100/README.md)
+[[Misc][Welcome]AlpacaHack 2100 (2089solved)](DailyAlpacaHack/AlpacaHack_2100/README.md)
 
 [[Pwn][Easy]simpleoverflow](DailyAlpacaHack/simpleoverflow/README.md)
 

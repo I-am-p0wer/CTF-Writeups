@@ -5,6 +5,9 @@ Writeups for CTF challenges.
 ## 316ctf (2026/08/12)
 
 [[PasswordCracking]Maryland_3](316ctf/Maryland_3/README.md)
+[[PasswordCracking]Maryland_4](316ctf/Maryland_4/README.md)
+[[PasswordCracking]Maryland_5](316ctf/Maryland_5/README.md)
+[[PasswordCracking]Maryland_6](316ctf/Maryland_6/README.md)
 
 ## 316ctf (2026/08/10)
 

@@ -14,7 +14,5 @@ Writeups for CTF challenges.
 ## DailyAlpacaHack (2026/08/09)
 
 [[Misc][Welcome]AlpacaHack 2100](DailyAlpacaHack/AlpacaHack_2100/README.md)
-
 [[Pwn][Easy]simpleoverflow](DailyAlpacaHack/simpleoverflow/README.md)
-
 [[Crypto][Easy]a_fact_of_CTF](DailyAlpacaHack/a_fact_of_CTF/README.md)

@@ -2,6 +2,13 @@
 
 Writeups for CTF challenges.
 
+## 316ctf (2026/08/13)
+
+[[PasswordCracking]SHArkba1t_Ooh_ha_ha_6](316ctf/SHArkba1t_Ooh_ha_ha_6/README.md)
+[[PasswordCracking]SHArkba1t_Ooh_ha_ha_7](316ctf/SHArkba1t_Ooh_ha_ha_7/README.md)
+[[PasswordCracking]SHArkba1t_Ooh_ha_ha_8](316ctf/SHArkba1t_Ooh_ha_ha_8/README.md)
+[[PasswordCracking]SHArkba1t_Ooh_ha_ha_9](316ctf/SHArkba1t_Ooh_ha_ha_9/README.md)
+
 ## 316ctf (2026/08/12)
 
 [[PasswordCracking]Maryland_3](316ctf/Maryland_3/README.md)

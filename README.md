@@ -8,6 +8,15 @@ Writeups for CTF challenges.
 [[PasswordCracking]SHArkba1t_Ooh_ha_ha_7](316ctf/SHArkba1t_Ooh_ha_ha_7/README.md)
 [[PasswordCracking]SHArkba1t_Ooh_ha_ha_8](316ctf/SHArkba1t_Ooh_ha_ha_8/README.md)
 [[PasswordCracking]SHArkba1t_Ooh_ha_ha_9](316ctf/SHArkba1t_Ooh_ha_ha_9/README.md)
+[[PasswordCracking]Huntsville_1](316ctf/Huntsville_1/README.md)
+[[PasswordCracking]Huntsville_2](316ctf/Huntsville_2/README.md)
+[[PasswordCracking]Huntsville_3](316ctf/Huntsville_3/README.md)
+[[PasswordCracking]Huntsville_4](316ctf/Huntsville_4/README.md)
+[[PasswordCracking]Huntsville_5](316ctf/Huntsville_5/README.md)
+[[PasswordCracking]Huntsville_6](316ctf/Huntsville_6/README.md)
+[[PasswordCracking]Huntsville_7](316ctf/Huntsville_7/README.md)
+[[PasswordCracking]Huntsville_8](316ctf/Huntsville_8/README.md)
+[[PasswordCracking]Huntsville_9](316ctf/Huntsville_9/README.md)
 
 ## 316ctf (2026/08/12)
 

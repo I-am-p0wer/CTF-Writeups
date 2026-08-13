@@ -2,6 +2,22 @@
 
 Writeups for CTF challenges.
 
+### 📊 Category Progress
+
+**Pwn / Binary** (56%)
+<svg width="100%" height="10">
+  <rect width="100%" height="10" rx="5" fill="#30363d" />
+  <rect width="56%" height="10" rx="5" fill="#58a6ff" />
+</svg>
+
+**Reverse Engineering** (63%)
+<svg width="100%" height="10">
+  <rect width="100%" height="10" rx="5" fill="#30363d" />
+  <rect width="63%" height="10" rx="5" fill="#3fb950" />
+</svg>
+
+
+
 ## 316ctf (2026/08/13)
 
 [[PasswordCracking]SHArkba1t_Ooh_ha_ha_6](316ctf/SHArkba1t_Ooh_ha_ha_6/README.md)

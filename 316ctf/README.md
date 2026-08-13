@@ -2,29 +2,24 @@
 
 CTF Progress
 
-<!-- Password Cracking (例: 12問クリア / 全54問) -->
-![Password Cracking](https://img.shields.io/badge/Password%20Cracking-12%2F54%20(22%25)-orange?style=flat-square)
+<!-- Password Cracking -->
+![Password Cracking](https://img.shields.io/badge/Password%20Cracking-0%2F54%20(0%25)-orange?style=flat-square)
 
-<!-- Crypto (例: 45問クリア / 全88問) -->
-![Crypto](https://img.shields.io/badge/Crypto-45%2F88%20(51%25)-purple?style=flat-square)
-　
-**Password Cracking (27/54)**
-![Pwn Progress](assets/progress_pass.svg)
+<!-- Crypto -->
+![Crypto](https://img.shields.io/badge/Crypto-0%2F88%20(0%25)-purple?style=flat-square)
 
-**Crypto (0/88)**
-![Pwn Progress](assets/progress_crypto.svg)
+<!-- Find Stacy -->
+![Find Stacy](https://img.shields.io/badge/Find%20Stacy-0%2F9%20(0%25)-red?style=flat-square)
 
-**Find Stacy (0/9)**
-![Pwn Progress](assets/progress_find.svg)
+<!-- OSINT -->
+![OSINT](https://img.shields.io/badge/OSINT-0%2F27%20(0%25)-blue?style=flat-square)
 
-**OSINT (0/27)**
-![Pwn Progress](assets/progress_osint.svg)
+<!-- Web -->
+![Web](https://img.shields.io/badge/Web-0%2F5%20(0%25)-success?style=flat-square)
 
-**Web (0/5)**
-![Pwn Progress](assets/progress_web.svg)
+<!-- Network Analysis -->
+![Network Analysis](https://img.shields.io/badge/Network%20Analysis-0%2F38%20(0%25)-orange?style=flat-square)
 
-**Network Analysis (0/38)**
-![Pwn Progress](assets/progress_net.svg)
 
 ## PasswordCracking
 

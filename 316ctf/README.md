@@ -4,6 +4,7 @@ CTF Progress
 
 **Password Cracking (1/54)**
 ![Pwn Progress](assets/progress_pass.svg)
+
 **Crypto (1/88)**
 ![Pwn Progress](assets/progress.svg)
 **Find Stacy (1/9)**

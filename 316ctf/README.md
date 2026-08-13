@@ -5,20 +5,20 @@ CTF Progress
 **Password Cracking (27/54)**
 ![Pwn Progress](assets/progress_pass.svg)
 
-**Crypto (1/88)**
-![Pwn Progress](assets/progress.svg)
+**Crypto (0/88)**
+![Pwn Progress](assets/progress_crypto.svg)
 
-**Find Stacy (1/9)**
-![Pwn Progress](assets/progress.svg)
+**Find Stacy (0/9)**
+![Pwn Progress](assets/progress_find.svg)
 
-**OSINT (1/27)**
-![Pwn Progress](assets/progress.svg)
+**OSINT (0/27)**
+![Pwn Progress](assets/progress_osint.svg)
 
-**Web (1/5)**
-![Pwn Progress](assets/progress.svg)
+**Web (0/5)**
+![Pwn Progress](assets/progress_web.svg)
 
-**Network Analysis (1/38)**
-![Pwn Progress](assets/progress.svg)
+**Network Analysis (0/38)**
+![Pwn Progress](assets/progress_net.svg)
 
 ## PasswordCracking
 

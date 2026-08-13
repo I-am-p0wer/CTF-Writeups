@@ -6,7 +6,7 @@ CTF Progress
 ![Password Cracking](https://img.shields.io/badge/Password%20Cracking-27%2F54%20(50%25)-orange?style=flat-square)
 
 <!-- Crypto -->
-![Crypto](https://img.shields.io/badge/Crypto-0%2F100%20(0%25)-orange?style=flat-square)
+![Crypto](https://img.shields.io/badge/Crypto-1%2F100%20(1%25)-orange?style=flat-square)
 
 <!-- Find Stacy -->
 ![Find Stacy](https://img.shields.io/badge/Find%20Stacy-0%2F9%20(0%25)-red?style=flat-square)

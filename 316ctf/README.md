@@ -1,6 +1,8 @@
 # 316ctf
 
-Table of contents
+CTF Progress
+
+
 
 ## PasswordCracking
 

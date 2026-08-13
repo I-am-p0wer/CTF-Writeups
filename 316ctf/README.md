@@ -2,6 +2,12 @@
 
 CTF Progress
 
+<!-- Password Cracking (例: 12問クリア / 全54問) -->
+![Password Cracking](https://img.shields.io/badge/Password%20Cracking-12%2F54%20(22%25)-orange?style=flat-square)
+
+<!-- Crypto (例: 45問クリア / 全88問) -->
+![Crypto](https://img.shields.io/badge/Crypto-45%2F88%20(51%25)-purple?style=flat-square)
+　
 **Password Cracking (27/54)**
 ![Pwn Progress](assets/progress_pass.svg)
 

@@ -3,7 +3,7 @@
 Table of contents
 
 
-[[PasswordCracking]SHArkba1t_Ooh_ha_ha_6](316ctf/SHArkba1t_Ooh_ha_ha_6/README.md)
+[[PasswordCracking]SHArkba1t_Ooh_ha_ha_6](SHArkba1t_Ooh_ha_ha_6/README.md)
 [[PasswordCracking]SHArkba1t_Ooh_ha_ha_7](316ctf/SHArkba1t_Ooh_ha_ha_7/README.md)
 [[PasswordCracking]SHArkba1t_Ooh_ha_ha_8](316ctf/SHArkba1t_Ooh_ha_ha_8/README.md)
 [[PasswordCracking]SHArkba1t_Ooh_ha_ha_9](316ctf/SHArkba1t_Ooh_ha_ha_9/README.md)

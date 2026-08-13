@@ -1,6 +1,7 @@
 #!/bin/sh
 
-README="README.md"
+# 対象を 316ctf/README.md に指定
+README="316ctf/README.md"
 
 # 1. 316ctf配下のカテゴリフォルダを自動検出してループ処理
 for category_dir in 316ctf/*/; do
@@ -19,7 +20,6 @@ for category_dir in 316ctf/*/; do
     
     [ "$total" -eq 0 ] && continue
 
-    # 修正：バグってた部分を直した（solvedにtotalを代入）
     solved=$total
     percent=100
     color="brightgreen"
@@ -27,7 +27,8 @@ for category_dir in 316ctf/*/; do
     badge_label=$(echo "$category_name" | sed 's/_/%20/g')
     new_badge="![${category_name}](https://img.shields.io/badge/${badge_label}-${solved}%2F${total}%20(${percent}%25)-${color}?style=flat-square)"
 
-    if grep -q "badge/${badge_label}-" "$README"; then
+    # 316ctf/README.md のバッジを置換、なければ末尾に追加
+    if grep -q "badge/${badge_label}-" "$README" 2>/dev/null; then
         sed -i "s#\!\[${category_name}\](https://img.shields.io/badge/${badge_label}-.*)#${new_badge}#g" "$README"
     else
         echo "$new_badge" >> "$README"
@@ -36,5 +37,5 @@ done
 
 # 2. Gitでまとめて追加・コミット・プッシュ
 git add .
-git commit -m "update: auto-update category badges and writeups"
+git commit -m "update: auto-update 316ctf badges and writeups"
 git push origin main

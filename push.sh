@@ -38,7 +38,7 @@ while read -r ctf_name category_name total color; do
     new_badge="![${category_name}](https://img.shields.io/badge/${badge_label}-${solved}%2F${total}%20(${percent}%25)-${color}?style=flat-square)"
 
     if grep -q "badge/${badge_label}-" "$README" 2>/dev/null; then
-        sed -i "s#\!\[${category_name}\](https://img.shields.io/badge/${badge_label}-.*)#${new_badge}#g" "$README"
+        sed -i "s#\!\[.*\](https://img.shields.io/badge/${badge_label}-.*)#${new_badge}#g" "$README"
     else
         echo "$new_badge" >> "$README"
     fi

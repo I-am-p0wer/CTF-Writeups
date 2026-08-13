@@ -1,0 +1,9 @@
+# 316ctf の設定 (形式: カテゴリ名 総数 色)
+316ctf Password_Cracking 54 brightgreen
+316ctf Crypto 88 blue
+316ctf Find_Stacy 9 yellow
+316ctf Network_Analysis 38 orange
+316ctf OSINT 27 red
+316ctf Web 5 purple
+
+

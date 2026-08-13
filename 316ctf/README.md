@@ -6,16 +6,16 @@ CTF Progress
 ![Password Cracking](https://img.shields.io/badge/Password%20Cracking-27%2F54%20(50%25)-orange?style=flat-square)
 
 <!-- Crypto -->
-![Crypto](https://img.shields.io/badge/Crypto-1%2F100%20(1%25)-orange?style=flat-square)
+![Crypto](https://img.shields.io/badge/Crypto-1%2F88%20(1%25)-blue?style=flat-square)
 
 <!-- Find Stacy -->
 ![Find Stacy](https://img.shields.io/badge/Find%20Stacy-0%2F9%20(0%25)-red?style=flat-square)
 
 <!-- OSINT -->
-![OSINT](https://img.shields.io/badge/OSINT-0%2F27%20(0%25)-blue?style=flat-square)
+![OSINT](https://img.shields.io/badge/OSINT-0%2F27%20(0%25)-red?style=flat-square)
 
 <!-- Web -->
-![Web](https://img.shields.io/badge/Web-0%2F5%20(0%25)-success?style=flat-square)
+![Web](https://img.shields.io/badge/Web-0%2F5%20(0%25)-purple?style=flat-square)
 
 <!-- Network Analysis -->
 ![Network Analysis](https://img.shields.io/badge/Network%20Analysis-0%2F38%20(0%25)-orange?style=flat-square)

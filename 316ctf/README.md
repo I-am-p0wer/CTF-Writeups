@@ -50,7 +50,3 @@ CTF Progress
 * [Huntsville_7](Huntsville_7/README.md)
 * [Huntsville_8](Huntsville_8/README.md)
 * [Huntsville_9](Huntsville_9/README.md)
-
-
-
-

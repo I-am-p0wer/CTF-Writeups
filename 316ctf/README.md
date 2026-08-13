@@ -3,7 +3,7 @@
 CTF Progress
 
 <!-- Password Cracking -->
-![Password Cracking](https://img.shields.io/badge/Password%20Cracking-0%2F54%20(0%25)-orange?style=flat-square)
+![Password Cracking](https://img.shields.io/badge/Password%20Cracking-50%2F54%20(50%25)-orange?style=flat-square)
 
 <!-- Crypto -->
 ![Crypto](https://img.shields.io/badge/Crypto-0%2F88%20(0%25)-purple?style=flat-square)

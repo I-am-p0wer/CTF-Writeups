@@ -42,4 +42,4 @@ Writeups for CTF challenges.
 
 [[Misc][Welcome]AlpacaHack 2100](DailyAlpacaHack/AlpacaHack_2100/README.md)
 [[Pwn][Easy]simpleoverflow](DailyAlpacaHack/simpleoverflow/README.md)
-[[Crypto][Easy]a_fact_of_CTF](DailyAlpacaHack/a_fact_of_CTF/README.md)![Password_Cracking](https://img.shields.io/badge/Password%20Cracking-27%2F27%20(100%25)-brightgreen?style=flat-square)
+[[Crypto][Easy]a_fact_of_CTF](DailyAlpacaHack/a_fact_of_CTF/README.md)

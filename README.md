@@ -2,6 +2,10 @@
 
 Writeups for CTF challenges.
 
+
+**Pwn / Binary (56%)**
+![Pwn Progress](assets/progress.svg)
+
 ## 316ctf (2026/08/13)
 
 [[PasswordCracking]SHArkba1t_Ooh_ha_ha_6](316ctf/SHArkba1t_Ooh_ha_ha_6/README.md)

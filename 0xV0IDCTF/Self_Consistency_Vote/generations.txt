@@ -1,0 +1,14 @@
+MODEL: self-consistency-repair-v2
+TASK: print the same flag ten times
+NOTE: individual samples hallucinate, but consensus is reliable.
+
+sample_01: 0xVoBd{majority_vnte_btKMN8halluQisa5ionT
+sample_02: 0xVoid{majori{y_vote0seaoI_Mallucination}
+sample_03: 0xgoid{majorit293ote_beats_hwl}uciHation0
+sample_04: 0xFoCd{mazority_vote_beatC_hallucinatiHn}
+sample_05: 0xVoVd{majority_vote_beats_Rallucynation}
+sample_06: 0xVoid{mEjoritF_vote_beats_halaucinBtion}
+sample_07: TxVoid{majority_v}7e_beats_hallucination}
+sample_08: 0xViid{majoritQ_vote_beHtsN}Cllucwnation}
+sample_09: 0}Void{majority_voVe_beats_hzllucmnction}
+sample_10: 0xV9id{majorifydvote_beats_hallucinatDon_

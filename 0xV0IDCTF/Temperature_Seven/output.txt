@@ -1,0 +1,7 @@
+model: thermal-crypto-v0
+claimed_algorithm: "temperature sampled XOR"
+temperature: 0.7
+note: "I multiplied nothing. I simply believed 0.7 looked like a key."
+
+cipher_decimal:
+55 127 81 104 110 99 124 115 98 106 119 98 117 102 115 114 117 98 88 110 116 88 105 104 115 88 102 88 116 98 100 117 98 115 122

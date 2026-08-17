@@ -16,4 +16,3 @@ Writeups for CTF challenges.
 
 ### (2026/08/09)
     DailyAlpacaHack
-

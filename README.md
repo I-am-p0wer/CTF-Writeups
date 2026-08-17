@@ -1,6 +1,31 @@
 ### August
-
-* **17**
+* **17** 
+  * ![CpawCTF][badge-cpawctf]
+    * [Can_you_execute](CpawCTF/Can_you_execute/README.md) — `Rev`
+    * [Can_you_open_this_file](CpawCTF/Can_you_open_this_file/README.md) — `Misc`
+    * [Classical_Cipher](CpawCTF/Classical_Cipher/README.md) — `Crypto`
+    * [HashHashHash](CpawCTF/HashHashHash/README.md) — `Crypto`
+    * [Narabikaero](CpawCTF/Narabikaero/README.md) — `PPC`
+    * [River](CpawCTF/River/README.md) — `Forensics`
+    * [pcap](CpawCTF/pcap/README.md) — `Network`
+  * ![0xV0IDCTF][badge-0xv0idctf]
+    * [A_Simple_Spectrum](0xV0IDCTF/A_Simple_Spectrum/README.md) — `Misc`
+    * [Acrostic](0xV0IDCTF/Acrostic/README.md) — `Crypto`
+    * [BabyRSA](0xV0IDCTF/BabyRSA/README.md) — `Crypto`
+    * [Between_The_Lines](0xV0IDCTF/Between_The_Lines/README.md) — `Crypto`
+    * [Confidence_Cipher](0xV0IDCTF/Confidence_Cipher/README.md) — `Crypto`
+    * [FirstStep](0xV0IDCTF/FirstStep/README.md) — `Misc`
+    * [Negative_Prompt_Masterpiece](0xV0IDCTF/Negative_Prompt_Masterpiece/README.md) — `Forensics`
+    * [PHANTOM](0xV0IDCTF/PHANTOM/README.md) — `Forensics`
+    * [PHANTOM_1](0xV0IDCTF/PHANTOM_1/README.md) — `Forensics`
+    * [PHANTOM_4](0xV0IDCTF/PHANTOM_4/README.md) — `Forensics`
+    * [Quiet_Note](0xV0IDCTF/Quiet_Note/README.md) — `Misc`
+    * [Self_Consistency_Vote](0xV0IDCTF/Self_Consistency_Vote/README.md) — `Misc`
+    * [Single_Byte](0xV0IDCTF/Single_Byte/README.md) — `Crypto`
+    * [System_Prompt_Chunks](0xV0IDCTF/System_Prompt_Chunks/README.md) — ``
+    * [Temperature_Seven](0xV0IDCTF/Temperature_Seven/README.md) — `Crypto`
+    * [Tokenizer_Off By_One](0xV0IDCTF/Tokenizer_Off%20By_One/README.md) — `Crypto`
+* **13**
   * ![316ctf][badge-316]
     * [SHArkba1t_Ooh_ha_ha_6](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_6/README.md) — `PassCrack`
     * [SHArkba1t_Ooh_ha_ha_7](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_7/README.md) — `PassCrack`
@@ -40,3 +65,5 @@
 
 [badge-316]: https://img.shields.io/badge/316ctf-1565c0?style=flat-square
 [badge-alpaca]: https://img.shields.io/badge/DailyAlpacaHack-e65100?style=flat-square
+[badge-0xv0idctf]: https://img.shields.io/badge/0xV0IDCTF-4a148c?style=flat-square
+[badge-cpawctf]: https://img.shields.io/badge/CpawCTF-2e7d32?style=flat-square

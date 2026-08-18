@@ -3,6 +3,8 @@
 * **18** 
   * ![DailyAlpacaHack][badge-alpaca]
     * [Password_Please](DailyAlpacaHack/Password_Please/README.md) — `Rev`
+    * [Leaked_Flag_Checker](DailyAlpacaHack/Leaked_Flag_Checker/README.md) — `Rev`
+
 
 * **17** 
   * ![CpawCTF][badge-cpawctf]

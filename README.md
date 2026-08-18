@@ -1,4 +1,9 @@
 ### August
+
+* **18** 
+  * ![DailyAlpacaHack][badge-alpaca]
+    * [a_fact_of_CTF](DailyAlpacaHack/Password_Please/README.md) — `Rev`
+
 * **17** 
   * ![CpawCTF][badge-cpawctf]
     * [Can_you_execute](CpawCTF/Can_you_execute/README.md) — `Rev`

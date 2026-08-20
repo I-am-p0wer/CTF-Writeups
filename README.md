@@ -1,5 +1,15 @@
 ### August
 
+* **20** 
+  * ![316ctf][badge-316]
+    * [B3_Miss_1](316ctf/Crypto/B3_Miss_1/README.md) — `Crypto`
+    * [Binary_2](316ctf/Crypto/Binary_2/README.md) — `Crypto`
+    * [NUM83R5_1](316ctf/Crypto/NUM83R5_1/README.md) — `Crypto`
+    * [NUM83R5_2](316ctf/Crypto/NUM83R5_2/README.md) — `Crypto`
+    * [ROTten_Tree_Cannot_Produce_Good_Fruit_4](316ctf/Crypto/ROTten_Tree_Cannot_Produce_Good_Fruit_4/README.md) — `Crypto`
+    * [Visionary_Cipher_1](316ctf/Crypto/Visionary_Cipher_1/README.md) — `Crypto`
+    * [Visionary_Cipher_2](316ctf/Crypto/Visionary_Cipher_2/README.md) — `Crypto`
+    * [Visionary_Cipher_3](316ctf/Crypto/Visionary_Cipher_3/README.md) — `Crypto`
 * **18** 
   * ![316ctf][badge-316]
     * [Central_Texas_1](316ctf/Password_Cracking/Central_Texas_1/README.md) — `PassCrack`

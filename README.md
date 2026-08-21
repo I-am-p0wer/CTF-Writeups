@@ -1,5 +1,16 @@
 ### August
 
+* **21**
+  * ![316ctf][badge-316]
+    * [Binary_1](316ctf/Crypto/Binary_1/README.md) — `Crypto`
+    * [Rev_Your_Engines_1](316ctf/Crypto/Rev_Your_Engines_1/README.md) — `Crypto`
+    * [Rev_Your_Engines_2](316ctf/Crypto/Rev_Your_Engines_2/README.md) — `Crypto`
+    * [Rev_Your_Engines_3](316ctf/Crypto/Rev_Your_Engines_3/README.md) — `Crypto`
+    * [Rev_Your_Engines_4](316ctf/Crypto/Rev_Your_Engines_4/README.md) — `Crypto`
+    * [Rev_Your_Engines_5](316ctf/Crypto/Rev_Your_Engines_5/README.md) — `Crypto`
+    * [ROTten_Tree_Cannot_Produce_Good_Fruit_1](316ctf/Crypto/ROTten_Tree_Cannot_Produce_Good_Fruit_1/README.md) — `Crypto`
+    * [ROTten_Tree_Cannot_Produce_Good_Fruit_2](316ctf/Crypto/ROTten_Tree_Cannot_Produce_Good_Fruit_2/README.md) — `Crypto`
+    * [ROTten_Tree_Cannot_Produce_Good_Fruit_3](316ctf/Crypto/ROTten_Tree_Cannot_Produce_Good_Fruit_3/README.md) — `Crypto`
 * **20** 
   * ![316ctf][badge-316]
     * [B3_Miss_1](316ctf/Crypto/B3_Miss_1/README.md) — `Crypto`

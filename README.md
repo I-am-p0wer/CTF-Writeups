@@ -1,5 +1,15 @@
 ### August
 
+* **24**
+  * ![BrunnerCTF_2026][badge-brunnerctf_2026]
+    * [Bears](BrunnerCTF_2026/Bears/README.md) — `Forensics`
+    * [Blackboard](BrunnerCTF_2026/Blackboard/README.md) — `Crypto`
+    * [Corporate_Hotline](BrunnerCTF_2026/Corporate_Hotline/README.md) — `Misc`
+    * [Going_Paperless](BrunnerCTF_2026/Going_Paperless/README.md) — `Misc`
+    * [Legacy_Cipher](BrunnerCTF_2026/Legacy_Cipher/README.md) — `Crypto`
+    * [Touch_Base](BrunnerCTF_2026/Touch_Base/README.md) — `Misc`
+    * [Unknown_Artist](BrunnerCTF_2026/Unknown_Artist/README.md) — `OSINT`
+    * [Why_those_random_letters](BrunnerCTF_2026/Why_those_random_letters/README.md) — `Crypto`
 * **21**
   * ![316ctf][badge-316]
     * [Binary_1](316ctf/Crypto/Binary_1/README.md) — `Crypto`
@@ -99,6 +109,7 @@
     * [simpleoverflow](DailyAlpacaHack/simpleoverflow/README.md) — `Pwn`
     * [AlpacaHack_2100](DailyAlpacaHack/AlpacaHack_2100/README.md) — `Misc`
 
+[badge-brunnerctf_2026]: https://img.shields.io/badge/BrunnerCTF_2026-a83285?style=flat-square
 [badge-316]: https://img.shields.io/badge/316ctf-1565c0?style=flat-square
 [badge-alpaca]: https://img.shields.io/badge/DailyAlpacaHack-e65100?style=flat-square
 [badge-0xv0idctf]: https://img.shields.io/badge/0xV0IDCTF-4a148c?style=flat-square

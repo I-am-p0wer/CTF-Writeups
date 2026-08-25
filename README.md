@@ -1,5 +1,8 @@
 ### August
 
+* **26**
+  * ![HackTheBox][hackthebox]
+    * [Bears](BrunnerCTF_2026/Bears/README.md) — `Forensics`
 * **24**
   * ![BrunnerCTF_2026][badge-brunnerctf_2026]
     * [Bears](BrunnerCTF_2026/Bears/README.md) — `Forensics`
@@ -109,6 +112,8 @@
     * [simpleoverflow](DailyAlpacaHack/simpleoverflow/README.md) — `Pwn`
     * [AlpacaHack_2100](DailyAlpacaHack/AlpacaHack_2100/README.md) — `Misc`
 
+
+[hackthebox]: https://img.shields.io/badge/HackTheBox-34eb83?style=flat-square
 [badge-brunnerctf_2026]: https://img.shields.io/badge/BrunnerCTF_2026-a83285?style=flat-square
 [badge-316]: https://img.shields.io/badge/316ctf-1565c0?style=flat-square
 [badge-alpaca]: https://img.shields.io/badge/DailyAlpacaHack-e65100?style=flat-square

@@ -2,7 +2,7 @@
 
 * **26**
   * ![HackTheBox][hackthebox]
-    * [Bears](BrunnerCTF_2026/Bears/README.md) — `Forensics`
+    * [Meow](HackTheBox/Meow/README.md) — `Starting Point`
 * **24**
   * ![BrunnerCTF_2026][badge-brunnerctf_2026]
     * [Bears](BrunnerCTF_2026/Bears/README.md) — `Forensics`

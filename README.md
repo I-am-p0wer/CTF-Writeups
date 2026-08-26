@@ -3,6 +3,9 @@
 * **26**
   * ![HackTheBox][hackthebox]
     * [Meow](HackTheBox/Meow/README.md) — `Starting Point`
+  * ![DailyAlpacaHack][badge-alpaca]
+    * [Encoding_Basics](DailyAlpacaHack/Encoding_Basics/README.md) — `Crypto`
+    * [Bars](DailyAlpacaHack/Bars/README.md) — `Web`
 * **24**
   * ![BrunnerCTF_2026][badge-brunnerctf_2026]
     * [Bears](BrunnerCTF_2026/Bears/README.md) — `Forensics`

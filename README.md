@@ -1,7 +1,7 @@
 ### August
 * **27**
  * ![CyLabSecurityAcademy][cylabsecurityacademy]
-    * [Crack_the_Gate_1](CyLab/picoMINI_by_CMU-Africa/Crack_the_Gate_1/README.md) — `Starting Point`
+    * [Crack_the_Gate_1](CyLab/picoMINI_by_CMU-Africa/Crack_the_Gate_1/README.md) — `Web`
 * **26**
   * ![HackTheBox][hackthebox]
     * [Meow](HackTheBox/Meow/README.md) — `Starting Point`

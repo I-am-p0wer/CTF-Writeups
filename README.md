@@ -1,7 +1,9 @@
 ### August
 * **27**
- * ![CyLabSecurityAcademy][cylabsecurityacademy]
+  * ![CyLabSecurityAcademy][cylabsecurityacademy]
     * [Crack_the_Gate_1](CyLab/picoMINI_by_CMU-Africa/Crack_the_Gate_1/README.md) — `Web`
+  * ![Hacker101_CTF][badge-hacker101_ctf]
+    * [A_little_something_to_get_you_started](Hacker101_CTF/A_little_something_to_get_you_started/README.md) — `Web`
 * **26**
   * ![HackTheBox][hackthebox]
     * [Meow](HackTheBox/Meow/README.md) — `Starting Point`
@@ -29,7 +31,7 @@
     * [ROTten_Tree_Cannot_Produce_Good_Fruit_1](316ctf/Crypto/ROTten_Tree_Cannot_Produce_Good_Fruit_1/README.md) — `Crypto`
     * [ROTten_Tree_Cannot_Produce_Good_Fruit_2](316ctf/Crypto/ROTten_Tree_Cannot_Produce_Good_Fruit_2/README.md) — `Crypto`
     * [ROTten_Tree_Cannot_Produce_Good_Fruit_3](316ctf/Crypto/ROTten_Tree_Cannot_Produce_Good_Fruit_3/README.md) — `Crypto`
-* **20** 
+* **20**
   * ![316ctf][badge-316]
     * [B3_Miss_1](316ctf/Crypto/B3_Miss_1/README.md) — `Crypto`
     * [Binary_2](316ctf/Crypto/Binary_2/README.md) — `Crypto`
@@ -39,7 +41,7 @@
     * [Visionary_Cipher_1](316ctf/Crypto/Visionary_Cipher_1/README.md) — `Crypto`
     * [Visionary_Cipher_2](316ctf/Crypto/Visionary_Cipher_2/README.md) — `Crypto`
     * [Visionary_Cipher_3](316ctf/Crypto/Visionary_Cipher_3/README.md) — `Crypto`
-* **18** 
+* **18**
   * ![316ctf][badge-316]
     * [Central_Texas_1](316ctf/Password_Cracking/Central_Texas_1/README.md) — `PassCrack`
     * [Central_Texas_2](316ctf/Password_Cracking/Central_Texas_2/README.md) — `PassCrack`
@@ -53,7 +55,7 @@
   * ![DailyAlpacaHack][badge-alpaca]
     * [Password_Please](DailyAlpacaHack/Password_Please/README.md) — `Rev`
     * [Leaked_Flag_Checker](DailyAlpacaHack/Leaked_Flag_Checker/README.md) — `Rev`
-* **17** 
+* **17**
   * ![CpawCTF][badge-cpawctf]
     * [Can_you_execute](CpawCTF/Can_you_execute/README.md) — `Rev`
     * [Can_you_open_this_file](CpawCTF/Can_you_open_this_file/README.md) — `Misc`
@@ -126,3 +128,4 @@
 [badge-alpaca]: https://img.shields.io/badge/DailyAlpacaHack-e65100?style=flat-square
 [badge-0xv0idctf]: https://img.shields.io/badge/0xV0IDCTF-4a148c?style=flat-square
 [badge-cpawctf]: https://img.shields.io/badge/CpawCTF-2e7d32?style=flat-square
+[badge-hacker101_ctf]: https://img.shields.io/badge/Hacker101_CTF-3f6e88?style=flat-square

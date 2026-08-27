@@ -4,6 +4,9 @@
     * [Crack_the_Gate_1](CyLab/picoMINI_by_CMU-Africa/Crack_the_Gate_1/README.md) — `Web`
   * ![Hacker101_CTF][badge-hacker101_ctf]
     * [A_little_something_to_get_you_started](Hacker101_CTF/A_little_something_to_get_you_started/README.md) — `Web`
+  * ![setodaNote_CTF][badge-setodanote_ctf]
+    * [morse_one](setodaNote_CTF/morse_one/README.md) — `Misc`
+    * [F](setodaNote_CTF/F/README.md) — `Misc`
 * **26**
   * ![HackTheBox][hackthebox]
     * [Meow](HackTheBox/Meow/README.md) — `Starting Point`
@@ -129,3 +132,4 @@
 [badge-0xv0idctf]: https://img.shields.io/badge/0xV0IDCTF-4a148c?style=flat-square
 [badge-cpawctf]: https://img.shields.io/badge/CpawCTF-2e7d32?style=flat-square
 [badge-hacker101_ctf]: https://img.shields.io/badge/Hacker101_CTF-3f6e88?style=flat-square
+[badge-setodanote_ctf]: https://img.shields.io/badge/setodaNote_CTF-8779e5?style=flat-square

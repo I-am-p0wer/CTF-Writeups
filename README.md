@@ -1,5 +1,7 @@
 ### August
-
+* **27**
+ * ![CyLabSecurityAcademy][cylabsecurityacademy]
+    * [Crack_the_Gate_1](CyLab/picoMINI_by_CMU-Africa/Crack_the_Gate_1/README.md) — `Starting Point`
 * **26**
   * ![HackTheBox][hackthebox]
     * [Meow](HackTheBox/Meow/README.md) — `Starting Point`
@@ -116,6 +118,8 @@
     * [AlpacaHack_2100](DailyAlpacaHack/AlpacaHack_2100/README.md) — `Misc`
 
 
+
+[cylabsecurityacademy]: https://img.shields.io/badge/CyLabSecurityAcademy-fcba03?style=flat-square
 [hackthebox]: https://img.shields.io/badge/HackTheBox-34eb83?style=flat-square
 [badge-brunnerctf_2026]: https://img.shields.io/badge/BrunnerCTF_2026-a83285?style=flat-square
 [badge-316]: https://img.shields.io/badge/316ctf-1565c0?style=flat-square

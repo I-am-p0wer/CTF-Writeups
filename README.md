@@ -1,4 +1,10 @@
 ### August
+* **29**
+  * ![OverTheWire][badge-overthewire]
+    * [Bandit_0](OverTheWire/Bandit/Bandit_0/README.md) — `GeneralSkills`
+    * [Bandit_1](OverTheWire/Bandit/Bandit_1/README.md) — `GeneralSkills`
+    * [Bandit_2](OverTheWire/Bandit/Bandit_2/README.md) — `GeneralSkills`
+    * [Bandit_3](OverTheWire/Bandit/Bandit_3/README.md) — `GeneralSkills`
 * **27**
   * ![CyLabSecurityAcademy][cylabsecurityacademy]
     * [Crack_the_Gate_1](CyLab/picoMINI_by_CMU-Africa/Crack_the_Gate_1/README.md) — `Web`
@@ -133,3 +139,4 @@
 [badge-cpawctf]: https://img.shields.io/badge/CpawCTF-2e7d32?style=flat-square
 [badge-hacker101_ctf]: https://img.shields.io/badge/Hacker101_CTF-3f6e88?style=flat-square
 [badge-setodanote_ctf]: https://img.shields.io/badge/setodaNote_CTF-8779e5?style=flat-square
+[badge-overthewire]: https://img.shields.io/badge/OverTheWire-b8f30f?style=flat-square

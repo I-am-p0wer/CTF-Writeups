@@ -8,6 +8,8 @@
     * [Bandit_8](OverTheWire/Bandit/Bandit_8/README.md) — `GeneralSkills`
     * [Bandit_9](OverTheWire/Bandit/Bandit_9/README.md) — `GeneralSkills`
     * [Bandit_10](OverTheWire/Bandit/Bandit_10/README.md) — `GeneralSkills`
+  * ![gaslightCTF][badge-gaslightctf]
+    * [Where_the_dream_starts_2](gaslightCTF/Where_the_dream_starts_2/README.md) — `Crypto`
 
 ### August
 * **29**
@@ -151,3 +153,4 @@
 [badge-hacker101_ctf]: https://img.shields.io/badge/Hacker101_CTF-3f6e88?style=flat-square
 [badge-setodanote_ctf]: https://img.shields.io/badge/setodaNote_CTF-8779e5?style=flat-square
 [badge-overthewire]: https://img.shields.io/badge/OverTheWire-b8f30f?style=flat-square
+[badge-gaslightctf]: https://img.shields.io/badge/gaslightCTF-4f3534?style=flat-square

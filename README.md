@@ -1,3 +1,14 @@
+### September
+* **2**
+  * ![OverTheWire][badge-overthewire]
+    * [Bandit_4](OverTheWire/Bandit/Bandit_4/README.md) — `GeneralSkills`
+    * [Bandit_5](OverTheWire/Bandit/Bandit_5/README.md) — `GeneralSkills`
+    * [Bandit_6](OverTheWire/Bandit/Bandit_6/README.md) — `GeneralSkills`
+    * [Bandit_7](OverTheWire/Bandit/Bandit_7/README.md) — `GeneralSkills`
+    * [Bandit_8](OverTheWire/Bandit/Bandit_8/README.md) — `GeneralSkills`
+    * [Bandit_9](OverTheWire/Bandit/Bandit_9/README.md) — `GeneralSkills`
+    * [Bandit_10](OverTheWire/Bandit/Bandit_10/README.md) — `GeneralSkills`
+
 ### August
 * **29**
   * ![OverTheWire][badge-overthewire]

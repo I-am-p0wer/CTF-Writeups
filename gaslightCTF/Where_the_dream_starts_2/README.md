@@ -58,3 +58,14 @@ for i in range(rows):
 plaintext = "".join(plaintext_chars)
 print(plaintext)
 ```
+### Result
+
+```
+The flag is gaslightCTF{tr4nsp0s3-2-th3-k3y-0f-g-fl4t!}eo
+```
+
+## Flag
+
+```
+gaslightCTF{tr4nsp0s3-2-th3-k3y-0f-g-fl4t!}
+```

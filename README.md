@@ -1,5 +1,13 @@
 ### September
+* **3**
+  * ![OverTheWire][badge-overthewire]
+    * [Bandit_11](OverTheWire/Bandit/Bandit_11/README.md) — `GeneralSkills`
+    * [Bandit_12](OverTheWire/Bandit/Bandit_12/README.md) — `GeneralSkills`
+    * [Bandit_13](OverTheWire/Bandit/Bandit_13/README.md) — `GeneralSkills`
+    * [Bandit_14](OverTheWire/Bandit/Bandit_14/README.md) — `GeneralSkills`
 * **2**
+  * ![gaslightCTF][badge-gaslightctf]
+    * [Where_the_dream_starts_2](gaslightCTF/Where_the_dream_starts_2/README.md) — `Crypto`
   * ![OverTheWire][badge-overthewire]
     * [Bandit_4](OverTheWire/Bandit/Bandit_4/README.md) — `GeneralSkills`
     * [Bandit_5](OverTheWire/Bandit/Bandit_5/README.md) — `GeneralSkills`
@@ -8,9 +16,6 @@
     * [Bandit_8](OverTheWire/Bandit/Bandit_8/README.md) — `GeneralSkills`
     * [Bandit_9](OverTheWire/Bandit/Bandit_9/README.md) — `GeneralSkills`
     * [Bandit_10](OverTheWire/Bandit/Bandit_10/README.md) — `GeneralSkills`
-  * ![gaslightCTF][badge-gaslightctf]
-    * [Where_the_dream_starts_2](gaslightCTF/Where_the_dream_starts_2/README.md) — `Crypto`
-
 ### August
 * **29**
   * ![OverTheWire][badge-overthewire]
@@ -24,14 +29,14 @@
   * ![Hacker101_CTF][badge-hacker101_ctf]
     * [A_little_something_to_get_you_started](Hacker101_CTF/A_little_something_to_get_you_started/README.md) — `Web`
   * ![setodaNote_CTF][badge-setodanote_ctf]
-    * [morse_one](setodaNote_CTF/morse_one/README.md) — `Misc`
     * [F](setodaNote_CTF/F/README.md) — `Misc`
+    * [morse_one](setodaNote_CTF/morse_one/README.md) — `Misc`
 * **26**
+  * ![DailyAlpacaHack][badge-alpaca]
+    * [Bars](DailyAlpacaHack/Bars/README.md) — `Web`
+    * [Encoding_Basics](DailyAlpacaHack/Encoding_Basics/README.md) — `Crypto`
   * ![HackTheBox][hackthebox]
     * [Meow](HackTheBox/Meow/README.md) — `Starting Point`
-  * ![DailyAlpacaHack][badge-alpaca]
-    * [Encoding_Basics](DailyAlpacaHack/Encoding_Basics/README.md) — `Crypto`
-    * [Bars](DailyAlpacaHack/Bars/README.md) — `Web`
 * **24**
   * ![BrunnerCTF_2026][badge-brunnerctf_2026]
     * [Bears](BrunnerCTF_2026/Bears/README.md) — `Forensics`
@@ -75,17 +80,9 @@
     * [Central_Texas_8](316ctf/Password_Cracking/Central_Texas_8/README.md) — `PassCrack`
     * [Central_Texas_9](316ctf/Password_Cracking/Central_Texas_9/README.md) — `PassCrack`
   * ![DailyAlpacaHack][badge-alpaca]
-    * [Password_Please](DailyAlpacaHack/Password_Please/README.md) — `Rev`
     * [Leaked_Flag_Checker](DailyAlpacaHack/Leaked_Flag_Checker/README.md) — `Rev`
+    * [Password_Please](DailyAlpacaHack/Password_Please/README.md) — `Rev`
 * **17**
-  * ![CpawCTF][badge-cpawctf]
-    * [Can_you_execute](CpawCTF/Can_you_execute/README.md) — `Rev`
-    * [Can_you_open_this_file](CpawCTF/Can_you_open_this_file/README.md) — `Misc`
-    * [Classical_Cipher](CpawCTF/Classical_Cipher/README.md) — `Crypto`
-    * [HashHashHash](CpawCTF/HashHashHash/README.md) — `Crypto`
-    * [Narabikaero](CpawCTF/Narabikaero/README.md) — `PPC`
-    * [River](CpawCTF/River/README.md) — `Forensics`
-    * [pcap](CpawCTF/pcap/README.md) — `Network`
   * ![0xV0IDCTF][badge-0xv0idctf]
     * [A_Simple_Spectrum](0xV0IDCTF/A_Simple_Spectrum/README.md) — `Misc`
     * [Acrostic](0xV0IDCTF/Acrostic/README.md) — `Crypto`
@@ -103,12 +100,16 @@
     * [System_Prompt_Chunks](0xV0IDCTF/System_Prompt_Chunks/README.md) — ``
     * [Temperature_Seven](0xV0IDCTF/Temperature_Seven/README.md) — `Crypto`
     * [Tokenizer_Off By_One](0xV0IDCTF/Tokenizer_Off%20By_One/README.md) — `Crypto`
+  * ![CpawCTF][badge-cpawctf]
+    * [Can_you_execute](CpawCTF/Can_you_execute/README.md) — `Rev`
+    * [Can_you_open_this_file](CpawCTF/Can_you_open_this_file/README.md) — `Misc`
+    * [Classical_Cipher](CpawCTF/Classical_Cipher/README.md) — `Crypto`
+    * [HashHashHash](CpawCTF/HashHashHash/README.md) — `Crypto`
+    * [Narabikaero](CpawCTF/Narabikaero/README.md) — `PPC`
+    * [pcap](CpawCTF/pcap/README.md) — `Network`
+    * [River](CpawCTF/River/README.md) — `Forensics`
 * **13**
   * ![316ctf][badge-316]
-    * [SHArkba1t_Ooh_ha_ha_6](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_6/README.md) — `PassCrack`
-    * [SHArkba1t_Ooh_ha_ha_7](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_7/README.md) — `PassCrack`
-    * [SHArkba1t_Ooh_ha_ha_8](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_8/README.md) — `PassCrack`
-    * [SHArkba1t_Ooh_ha_ha_9](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_9/README.md) — `PassCrack`
     * [Huntsville_1](316ctf/Password_Cracking/Huntsville_1/README.md) — `PassCrack`
     * [Huntsville_2](316ctf/Password_Cracking/Huntsville_2/README.md) — `PassCrack`
     * [Huntsville_3](316ctf/Password_Cracking/Huntsville_3/README.md) — `PassCrack`
@@ -118,6 +119,10 @@
     * [Huntsville_7](316ctf/Password_Cracking/Huntsville_7/README.md) — `PassCrack`
     * [Huntsville_8](316ctf/Password_Cracking/Huntsville_8/README.md) — `PassCrack`
     * [Huntsville_9](316ctf/Password_Cracking/Huntsville_9/README.md) — `PassCrack`
+    * [SHArkba1t_Ooh_ha_ha_6](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_6/README.md) — `PassCrack`
+    * [SHArkba1t_Ooh_ha_ha_7](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_7/README.md) — `PassCrack`
+    * [SHArkba1t_Ooh_ha_ha_8](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_8/README.md) — `PassCrack`
+    * [SHArkba1t_Ooh_ha_ha_9](316ctf/Password_Cracking/SHArkba1t_Ooh_ha_ha_9/README.md) — `PassCrack`
 * **12**
   * ![316ctf][badge-316]
     * [Maryland_3](316ctf/Password_Cracking/Maryland_3/README.md) — `PassCrack`
@@ -138,19 +143,19 @@
     * [Maryland_2](316ctf/Password_Cracking/Maryland_2/README.md) — `PassCrack`
   * ![DailyAlpacaHack][badge-alpaca]
     * [a_fact_of_CTF](DailyAlpacaHack/a_fact_of_CTF/README.md) — `Crypto`
-    * [simpleoverflow](DailyAlpacaHack/simpleoverflow/README.md) — `Pwn`
     * [AlpacaHack_2100](DailyAlpacaHack/AlpacaHack_2100/README.md) — `Misc`
+    * [simpleoverflow](DailyAlpacaHack/simpleoverflow/README.md) — `Pwn`
 
 
 
-[cylabsecurityacademy]: https://img.shields.io/badge/CyLabSecurityAcademy-fcba03?style=flat-square
-[hackthebox]: https://img.shields.io/badge/HackTheBox-34eb83?style=flat-square
-[badge-brunnerctf_2026]: https://img.shields.io/badge/BrunnerCTF_2026-a83285?style=flat-square
+[badge-0xv0idctf]: https://img.shields.io/badge/0xV0IDCTF-4a148c?style=flat-square
 [badge-316]: https://img.shields.io/badge/316ctf-1565c0?style=flat-square
 [badge-alpaca]: https://img.shields.io/badge/DailyAlpacaHack-e65100?style=flat-square
-[badge-0xv0idctf]: https://img.shields.io/badge/0xV0IDCTF-4a148c?style=flat-square
+[badge-brunnerctf_2026]: https://img.shields.io/badge/BrunnerCTF_2026-a83285?style=flat-square
 [badge-cpawctf]: https://img.shields.io/badge/CpawCTF-2e7d32?style=flat-square
-[badge-hacker101_ctf]: https://img.shields.io/badge/Hacker101_CTF-3f6e88?style=flat-square
-[badge-setodanote_ctf]: https://img.shields.io/badge/setodaNote_CTF-8779e5?style=flat-square
-[badge-overthewire]: https://img.shields.io/badge/OverTheWire-b8f30f?style=flat-square
 [badge-gaslightctf]: https://img.shields.io/badge/gaslightCTF-4f3534?style=flat-square
+[badge-hacker101_ctf]: https://img.shields.io/badge/Hacker101_CTF-3f6e88?style=flat-square
+[badge-overthewire]: https://img.shields.io/badge/OverTheWire-b8f30f?style=flat-square
+[badge-setodanote_ctf]: https://img.shields.io/badge/setodaNote_CTF-8779e5?style=flat-square
+[cylabsecurityacademy]: https://img.shields.io/badge/CyLabSecurityAcademy-fcba03?style=flat-square
+[hackthebox]: https://img.shields.io/badge/HackTheBox-34eb83?style=flat-square

@@ -1,5 +1,9 @@
 ### September
 * **6**
+  * ![CTFLEARN][badge-ctflearn]
+    * [Base_22_the_6](CTFLEARN/Base_22_the_6/README.md) — `Crypto`
+    * [Basic_Injection](CTFLEARN/Basic_Injection/README.md) — `Web`
+    * [Character_Encoding](CTFLEARN/Character_Encoding/README.md) — `Crypto`
   * ![OverTheWire][badge-overthewire]
     * [Bandit_15](OverTheWire/Bandit/Bandit_15/README.md) — `GeneralSkills`
     * [Bandit_16](OverTheWire/Bandit/Bandit_16/README.md) — `GeneralSkills`
@@ -173,6 +177,7 @@
 [badge-alpaca]: https://img.shields.io/badge/DailyAlpacaHack-e65100?style=flat-square
 [badge-brunnerctf_2026]: https://img.shields.io/badge/BrunnerCTF_2026-a83285?style=flat-square
 [badge-cpawctf]: https://img.shields.io/badge/CpawCTF-2e7d32?style=flat-square
+[badge-ctflearn]: https://img.shields.io/badge/CTFLEARN-c0ff35?style=flat-square
 [badge-gaslightctf]: https://img.shields.io/badge/gaslightCTF-4f3534?style=flat-square
 [badge-hacker101_ctf]: https://img.shields.io/badge/Hacker101_CTF-3f6e88?style=flat-square
 [badge-overthewire]: https://img.shields.io/badge/OverTheWire-b8f30f?style=flat-square

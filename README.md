@@ -1,4 +1,15 @@
 ### September
+* **6**
+  * ![OverTheWire][badge-overthewire]
+    * [Bandit_15](OverTheWire/Bandit/Bandit_15/README.md) — `GeneralSkills`
+    * [Bandit_16](OverTheWire/Bandit/Bandit_16/README.md) — `GeneralSkills`
+    * [Bandit_17](OverTheWire/Bandit/Bandit_17/README.md) — `GeneralSkills`
+    * [Bandit_18](OverTheWire/Bandit/Bandit_18/README.md) — `GeneralSkills`
+    * [Bandit_19](OverTheWire/Bandit/Bandit_19/README.md) — `GeneralSkills`
+    * [Bandit_20](OverTheWire/Bandit/Bandit_20/README.md) — `GeneralSkills`
+    * [Bandit_21](OverTheWire/Bandit/Bandit_21/README.md) — `GeneralSkills`
+    * [Bandit_22](OverTheWire/Bandit/Bandit_22/README.md) — `GeneralSkills`
+    * [Bandit_23](OverTheWire/Bandit/Bandit_23/README.md) — `GeneralSkills`
 * **4**
   * ![CyLabSecurityAcademy][cylabsecurityacademy]
     * [2warm](CyLab/The_Beginners_Guide_to_the_Challenge_Library/2warm/README.md) — `GeneralSkills`

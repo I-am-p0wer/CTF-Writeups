@@ -1,4 +1,7 @@
 ### September
+* **8**
+  * ![CTFLEARN][badge-ctflearn]
+    * [Hextroadinary](CTFLEARN/Hextroadinary/README.md) — `Crypto`
 * **7**
   * ![CTFLEARN][badge-ctflearn]
     * [Wikipedia](CTFLEARN/Wikipedia/README.md) — `Misc`

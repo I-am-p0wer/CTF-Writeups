@@ -1,7 +1,7 @@
 ### September
 * **8**
   * ![CTFLEARN][badge-ctflearn]
-    * [Hextroadinary](CTFLEARN/Hextroadinary/README.md) — `Crypto`
+    * [Rubber Duck](CTFLEARN/Rubber_Duck/README.md) — `Forensics`
 * **7**
   * ![CTFLEARN][badge-ctflearn]
     * [Wikipedia](CTFLEARN/Wikipedia/README.md) — `Misc`

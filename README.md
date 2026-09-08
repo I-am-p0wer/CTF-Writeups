@@ -3,6 +3,7 @@
   * ![CTFLEARN][badge-ctflearn]
     * [Rubber_Duck](CTFLEARN/Rubber_Duck/README.md) — `Forensics`
     * [Time_Traveller](CTFLEARN/Time_Traveller/README.md) — `Misc`
+    * [BruXOR](CTFLEARN/BruXOR/README.md) — `Crypto`
 * **7**
   * ![CTFLEARN][badge-ctflearn]
     * [Wikipedia](CTFLEARN/Wikipedia/README.md) — `Misc`

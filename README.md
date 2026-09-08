@@ -4,6 +4,9 @@
     * [Rubber_Duck](CTFLEARN/Rubber_Duck/README.md) — `Forensics`
     * [Time_Traveller](CTFLEARN/Time_Traveller/README.md) — `Misc`
     * [BruXOR](CTFLEARN/BruXOR/README.md) — `Crypto`
+    * [Taking_LS](CTFLEARN/Taking_LS/README.md) — `Forensics`
+    * [Where_Can_My_Robot_Go](CTFLEARN/Where_Can_My_Robot_Go/README.md) — `Misc`
+    * [WOW_So_Meta](CTFLEARN/WOW_So_Meta/README.md) — `Forensics`
 * **7**
   * ![CTFLEARN][badge-ctflearn]
     * [Wikipedia](CTFLEARN/Wikipedia/README.md) — `Misc`

@@ -16,7 +16,7 @@ Nice Job!  The Password is "Im The Flag".
 localhost:~/The Flag#
 ```
 
-![flag](Waiting..../Ctflearn/Taking_LS/flag.jpg)
+![flag](flag.jpg)
 
 ## Flag
 

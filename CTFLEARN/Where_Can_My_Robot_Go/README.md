@@ -13,7 +13,7 @@ https://ctflearn.com/robots.txt
 ![robots.txt](robots.jpg)
 
 
-![flag](Waiting..../Ctflearn/Where_Can_My_Robot_Go/flag.jpg)
+![flag](flag.jpg)
 
 ## Flag
 

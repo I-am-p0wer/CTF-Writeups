@@ -1,4 +1,12 @@
 ### September
+* **9**
+  * ![CTFLEARN][badge-ctflearn]
+    * [Reverse_Polarity](CTFLEARN/Reverse_Polarity/README.md) — `Crypto`
+    * [Morse_Code](CTFLEARN/Morse_Code/README.md) — `Crypto`
+    * [HyperStream_Test_2](CTFLEARN/HyperStream_Test_2/README.md) — `Crypto`
+    * [Forensics_101](CTFLEARN/Forensics_101/README.md) — `Forensics`
+    * [Binwalk](CTFLEARN/Binwalk/README.md) — `Forensics`
+    * [07601](CTFLEARN/07601/README.md) — `Forensics`
 * **8**
   * ![CTFLEARN][badge-ctflearn]
     * [Rubber_Duck](CTFLEARN/Rubber_Duck/README.md) — `Forensics`

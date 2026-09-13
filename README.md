@@ -2,6 +2,11 @@
 * **13**
   * ![CTFLEARN][badge-ctflearn]
     * [Vigenere_Cipher](CTFLEARN/Vigenere_Cipher/README.md) — `Crypto`
+  * ![NNS_CTF][badge-nns_ctf]
+    * [BYOC](NNS_CTF/BYOC/README.md) — `Pwn`
+    * [NNS_Travel](NNS_CTF/NNS_Travel/README.md) — `Web`
+    * [No_Strings_Attached](NNS_CTF/No_Strings_Attached/README.md) — `Rev`
+    * [Open_Secret](NNS_CTF/Open_Secret/README.md) — `Rev`
 * **9**
   * ![CTFLEARN][badge-ctflearn]
     * [Reverse_Polarity](CTFLEARN/Reverse_Polarity/README.md) — `Crypto`
@@ -202,6 +207,7 @@
 [badge-ctflearn]: https://img.shields.io/badge/CTFLEARN-c0ff35?style=flat-square
 [badge-gaslightctf]: https://img.shields.io/badge/gaslightCTF-4f3534?style=flat-square
 [badge-hacker101_ctf]: https://img.shields.io/badge/Hacker101_CTF-3f6e88?style=flat-square
+[badge-nns_ctf]: https://img.shields.io/badge/NNS_CTF-ffbecb?style=flat-square
 [badge-overthewire]: https://img.shields.io/badge/OverTheWire-b8f30f?style=flat-square
 [badge-setodanote_ctf]: https://img.shields.io/badge/setodaNote_CTF-8779e5?style=flat-square
 [cylabsecurityacademy]: https://img.shields.io/badge/CyLabSecurityAcademy-fcba03?style=flat-square

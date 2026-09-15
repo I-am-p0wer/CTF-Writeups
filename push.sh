@@ -47,5 +47,5 @@ done < "$CONFIG"
 
 # 2. Gitでまとめて追加・コミット・プッシュ
 git add .
-git commit -m "update: auto-update ctf badges and writeups"
+git commit -m "update"
 git push origin main

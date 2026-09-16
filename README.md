@@ -1,4 +1,7 @@
 ### September
+* **16**
+  * ![CTFLEARN][badge-ctflearn]
+    * [Exif](CTFLEARN/Exif/README.md) — `Misc`
 * **14**
   * ![CTFLEARN][badge-ctflearn]
     * [Dont_Bump_Your_Head_er_](CTFLEARN/Dont_Bump_Your_Head_er_/README.md) — `Web`

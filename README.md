@@ -1,4 +1,7 @@
 ### September
+* **17**
+  * ![CTFLEARN][badge-ctflearn]
+    * [Git_Is_Good](CTFLEARN/Git_Is_Good/README.md) — `Misc`
 * **16**
   * ![CTFLEARN][badge-ctflearn]
     * [Exif](CTFLEARN/Exif/README.md) — `Misc`

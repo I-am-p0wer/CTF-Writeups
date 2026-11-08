@@ -1,3 +1,7 @@
+### November
+* **8**
+  * ![DailyAlpacaHack][badge-alpaca]
+    * [Baby_Alpaca](DailyAlpacaHack/Baby_Alpaca/README.md) — `Misc`
 ### September
 * **17**
   * ![CTFLEARN][badge-ctflearn]

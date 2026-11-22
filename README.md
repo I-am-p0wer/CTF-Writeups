@@ -1,10 +1,11 @@
 ### November
-* **22**
+* **23**
   * ![WolvCTF_2026][badge-wolvctf_2026]
     * [LAYERS](WolvCTF_2026/LAYERS/README.md) — `Crypto`
     * [MAIZE_POSTER](WolvCTF_2026/MAIZE_POSTER/README.md) — `Crypto`
     * [ON_THE_RAIL_FENCE](WolvCTF_2026/ON_THE_RAIL_FENCE/README.md) — `Crypto`
     * [SPOOFIFY](WolvCTF_2026/SPOOFIFY/README.md) — `Crypto`
+    * [PANTS_ON_FIRE](WolvCTF_2026/PANTS_ON_FIRE/README.md) — `OSINT`
 * **8**
   * ![DailyAlpacaHack][badge-alpaca]
     * [Baby_Alpaca](DailyAlpacaHack/Baby_Alpaca/README.md) — `Misc`

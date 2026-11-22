@@ -1,4 +1,10 @@
 ### November
+* **22**
+  * ![WolvCTF_2026][badge-wolvctf_2026]
+    * [LAYERS](WolvCTF_2026/LAYERS/README.md) — `Crypto`
+    * [MAIZE_POSTER](WolvCTF_2026/MAIZE_POSTER/README.md) — `Crypto`
+    * [ON_THE_RAIL_FENCE](WolvCTF_2026/ON_THE_RAIL_FENCE/README.md) — `Crypto`
+    * [SPOOFIFY](WolvCTF_2026/SPOOFIFY/README.md) — `Crypto`
 * **8**
   * ![DailyAlpacaHack][badge-alpaca]
     * [Baby_Alpaca](DailyAlpacaHack/Baby_Alpaca/README.md) — `Misc`
@@ -223,5 +229,6 @@
 [badge-nns_ctf]: https://img.shields.io/badge/NNS_CTF-ffbecb?style=flat-square
 [badge-overthewire]: https://img.shields.io/badge/OverTheWire-b8f30f?style=flat-square
 [badge-setodanote_ctf]: https://img.shields.io/badge/setodaNote_CTF-8779e5?style=flat-square
+[badge-wolvctf_2026]: https://img.shields.io/badge/WolvCTF_2026-878dff?style=flat-square
 [cylabsecurityacademy]: https://img.shields.io/badge/CyLabSecurityAcademy-fcba03?style=flat-square
 [hackthebox]: https://img.shields.io/badge/HackTheBox-34eb83?style=flat-square

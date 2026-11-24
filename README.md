@@ -1,4 +1,7 @@
 ### November
+* **24**
+  * ![CyLabSecurityAcademy][cylabsecurityacademy]
+    * [Undo](CyLab/picoCTF_2026/Undo/README.md) — `GeneralSkills`
 * **23**
   * ![WolvCTF_2026][badge-wolvctf_2026]
     * [LAYERS](WolvCTF_2026/LAYERS/README.md) — `Crypto`

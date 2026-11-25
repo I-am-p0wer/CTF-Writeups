@@ -1,7 +1,10 @@
 ### November
+* **25**
+  * ![CyLabSecurityAcademy][cylabsecurityacademy]
+    * [bytemancy_1](CyLabSecurityAcademy/picoCTF_2026/bytemancy_1/README.md) — `GeneralSkills`
 * **24**
   * ![CyLabSecurityAcademy][cylabsecurityacademy]
-    * [Undo](CyLab/picoCTF_2026/Undo/README.md) — `GeneralSkills`
+    * [Undo](CyLabSecurityAcademy/picoCTF_2026/Undo/README.md) — `GeneralSkills`
 * **23**
   * ![WolvCTF_2026][badge-wolvctf_2026]
     * [LAYERS](WolvCTF_2026/LAYERS/README.md) — `Crypto`
@@ -66,13 +69,13 @@
     * [Bandit_23](OverTheWire/Bandit/Bandit_23/README.md) — `GeneralSkills`
 * **4**
   * ![CyLabSecurityAcademy][cylabsecurityacademy]
-    * [2warm](CyLab/The_Beginners_Guide_to_the_Challenge_Library/2warm/README.md) — `GeneralSkills`
-    * [Big_Zip](CyLab/The_Beginners_Guide_to_the_Challenge_Library/Big_Zip/README.md) — `GeneralSkills`
-    * [Enhance!](CyLab/The_Beginners_Guide_to_the_Challenge_Library/Enhance!/README.md) — `Forensics`
-    * [Mod_26](CyLab/The_Beginners_Guide_to_the_Challenge_Library/Mod_26/README.md) — `Crypto`
-    * [PW_Crack_1](CyLab/The_Beginners_Guide_to_the_Challenge_Library/PW_Crack_1/README.md) — `PassCrack`
-    * [Warmed_Up](CyLab/The_Beginners_Guide_to_the_Challenge_Library/2warm/README.md) — `GeneralSkills`
-    * [vault-door-training](CyLab/The_Beginners_Guide_to_the_Challenge_Library/vault-door-training/README.md) — `Rev`
+    * [2warm](CyLabSecurityAcademy/The_Beginners_Guide_to_the_Challenge_Library/2warm/README.md) — `GeneralSkills`
+    * [Big_Zip](CyLabSecurityAcademy/The_Beginners_Guide_to_the_Challenge_Library/Big_Zip/README.md) — `GeneralSkills`
+    * [Enhance!](CyLabSecurityAcademy/The_Beginners_Guide_to_the_Challenge_Library/Enhance!/README.md) — `Forensics`
+    * [Mod_26](CyLabSecurityAcademy/The_Beginners_Guide_to_the_Challenge_Library/Mod_26/README.md) — `Crypto`
+    * [PW_Crack_1](CyLabSecurityAcademy/The_Beginners_Guide_to_the_Challenge_Library/PW_Crack_1/README.md) — `PassCrack`
+    * [Warmed_Up](CyLabSecurityAcademy/The_Beginners_Guide_to_the_Challenge_Library/2warm/README.md) — `GeneralSkills`
+    * [vault-door-training](CyLabSecurityAcademy/The_Beginners_Guide_to_the_Challenge_Library/vault-door-training/README.md) — `Rev`
 * **3**
   * ![OverTheWire][badge-overthewire]
     * [Bandit_11](OverTheWire/Bandit/Bandit_11/README.md) — `GeneralSkills`
@@ -99,7 +102,7 @@
     * [Bandit_3](OverTheWire/Bandit/Bandit_3/README.md) — `GeneralSkills`
 * **27**
   * ![CyLabSecurityAcademy][cylabsecurityacademy]
-    * [Crack_the_Gate_1](CyLab/picoMINI_by_CMU-Africa/Crack_the_Gate_1/README.md) — `Web`
+    * [Crack_the_Gate_1](CyLabSecurityAcademy/picoMINI_by_CMU-Africa/Crack_the_Gate_1/README.md) — `Web`
   * ![Hacker101_CTF][badge-hacker101_ctf]
     * [A_little_something_to_get_you_started](Hacker101_CTF/A_little_something_to_get_you_started/README.md) — `Web`
   * ![setodaNote_CTF][badge-setodanote_ctf]

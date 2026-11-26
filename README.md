@@ -1,5 +1,11 @@
 ### November
 * **26**
+  * ![CTFLEARN][badge-ctflearn]
+    * [PikesPeak](CTFLEARN/PikesPeak/README.md) — `GeneralSkills`
+    * [POST_Practice](CTFLEARN/POST_Practice/README.md) — `Web`
+    * [QR_Code](CTFLEARN/QR_Code/README.md) — `Misc`
+    * [Simple_Programming](CTFLEARN/Simple_Programming/README.md) — `PPC`
+    * [Snowboard](CTFLEARN/Snowboard/README.md) — `GeneralSkills`
   * ![CyLabSecurityAcademy][cylabsecurityacademy]
     * [Piece_by_Piece](CyLabSecurityAcademy/picoCTF_2026/Piece_by_Piece/README.md) — `GeneralSkills`
 * **25**

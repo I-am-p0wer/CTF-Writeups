@@ -1,4 +1,7 @@
 ### November
+* **26**
+  * ![CyLabSecurityAcademy][cylabsecurityacademy]
+    * [Piece_by_Piece](CyLabSecurityAcademy/picoCTF_2026/Piece_by_Piece/README.md) — `GeneralSkills`
 * **25**
   * ![CyLabSecurityAcademy][cylabsecurityacademy]
     * [bytemancy_1](CyLabSecurityAcademy/picoCTF_2026/bytemancy_1/README.md) — `GeneralSkills`
